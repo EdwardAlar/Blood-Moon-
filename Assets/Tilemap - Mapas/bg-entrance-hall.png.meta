@@ -1,0 +1,6749 @@
+fileFormatVersion: 2
+guid: 2ea35c1817b1aff4ba47d7f9911cd4af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg-entrance-hall_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c130474502edac4d9ae8203df3ffb88
+      internalID: -757560169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec4bfcb986f3944c8a7ed3b3239f468
+      internalID: -777130968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f4a2585cd144e4ca164bc89d82ef46
+      internalID: 923881035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd109338a1f8c418296947228e5554
+      internalID: 1798589177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2b2d751cc861b4daa10338b207bafc
+      internalID: -927999286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c60392825fb6a44af1cb4e6ebbdf4f
+      internalID: -918555411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a4b7c86a85834a85313f4594f5dad
+      internalID: 1764087138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6737f0ed4189794cab6fd8ec690789c
+      internalID: 122108913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ae7e8d871dc174f817fe0cda36642d
+      internalID: 183437138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1b772dfb1b08546acf35fe81aa557b
+      internalID: 439848341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb17cee7f69074698207765006abb8
+      internalID: 323252748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_11
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ed3a850afb57841a3b0ea222bf5c7a
+      internalID: 795080245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7183ff8f1a4c534bb0fbaff977f067f
+      internalID: -1250168577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cff53571fcc214eb9c25cfc325ee89
+      internalID: -636811599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d929de406b5bc5f42a49b5288d8253e0
+      internalID: -1397007755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ab1aaa645b4c47957dec3ae71fb25
+      internalID: -556594397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17c0ba45619fcb43a1fd199e62a13fa
+      internalID: 142950310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ba5c8a6c1783f4c8b6dc567cbce1f1
+      internalID: 790870507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2602ea51e939fde4b8428333de10c458
+      internalID: 1939129470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1093
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c801eddedda514a961f2949ba06034
+      internalID: -2111755214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1093
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f122275cedda7034ab5912bb85f2ca7d
+      internalID: -213694737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1093
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3df605a30e3384eb1d949b4f597cc4
+      internalID: -971787391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1093
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c231e74f5fe9a9479b2657646640dd7
+      internalID: -52662810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0543a8eb83b32ea4ca39777bcc59a60f
+      internalID: 235381144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ee85ed13f08784986b6e8a31af52c4
+      internalID: -2052022965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4f49808cbc0fb4db302b77b44d52d0
+      internalID: -2128350492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d89cd6a49cc5cc409ee5baaea3723c6
+      internalID: -1414707799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048186f79eaccf74088ee49e0c327448
+      internalID: 1514214865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb7b76dd317dbd408728c584c14ae20
+      internalID: -26787658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f83af2295c207546811d899833cad05
+      internalID: -1268402488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0c84dde955f8429aa55254a015519
+      internalID: -68183129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc35bdc8b0ea2b49a050a7a2f6fef08
+      internalID: -620602201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_32
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fea13ab4c762ea49891f906e542b3dc
+      internalID: -1720214344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e60e7ce735f7441a2800be8bd53e20
+      internalID: 1045774299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_34
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b206d87286b9e34fb13f7b324952149
+      internalID: -1386174669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530d513a0359999438594549f16fcda7
+      internalID: 295709865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_36
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07157897e959b5746ad57a17485a0340
+      internalID: -1156175180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1043
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaffb5fb7133ab439f122f176f776e3
+      internalID: 777546657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb7f439066889a40980ad467c7b31eb
+      internalID: 572585824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a715570c882f84ba337f64171ef57f
+      internalID: -1963603529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67a873974f7be54e8809988f9513c42
+      internalID: -379824051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61248b97b10668458ca84c4e38e6966
+      internalID: -476445188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e870535dc30e5449bb044d1529bebe
+      internalID: -299182869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dc22ef9bdc2ab4b9d2150064f81f8c
+      internalID: -386257808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa8b32833e46c43ae119ab172105b0
+      internalID: 1485602184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04d2de92f0e85d4eaf62c298039fad0
+      internalID: -1590116801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5f12a5f3d9d254fbc507150d09b82f
+      internalID: 1536122630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e79af2f7f33b024dbc2020dc820305d
+      internalID: 1644870526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_48
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308169abbc91f3e46bc730b9b139d61b
+      internalID: 1763413593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff8db1f7279eb44fab53a9567e972df
+      internalID: 322809931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf94802b25818b74c858abb5b44c79ba
+      internalID: -1504313527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_51
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed78e188d04a250489b233dbcb7a9795
+      internalID: 1528518359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074b26dad11e214197f84e2c86d54db
+      internalID: 1420906457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd64e1d1d5cd4d841996a9aba285bb50
+      internalID: -1660103471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 993
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca80cf5e89f9e21418bba699e6f1e498
+      internalID: 1841388991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 943
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d2ea157c6ecf4499ac6e8210103f5
+      internalID: 1605387452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 943
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ac60c6a9d1ada46a1ce223b876a677
+      internalID: -407387781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 943
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4715b22326d83f4f904c46a796b52a8
+      internalID: -809298837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 943
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f574b122616a8541a54fa4b43d094f8
+      internalID: 577943107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 943
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c21a63b3bf416349a7a53c42d78f853
+      internalID: 2112767902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 943
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a3aaa39309b3f41828c284dddadab3
+      internalID: 511223939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 943
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82bcb55db75d4d45808a4756f13cd07
+      internalID: 1891534590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 943
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd55a39a0325c4bac62dfb8f31e29e
+      internalID: -110220749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_63
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 943
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab73b0a9ef67fdd488115188aea49456
+      internalID: 1484260974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 893
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e19244dc165e6e419fbe059d6e06100
+      internalID: 102737364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 893
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d20e482a6d8c564896f354865241e35
+      internalID: 828402171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 893
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f32fb0ea1b8f8b44911fc4d2a3496ed
+      internalID: -898844440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_67
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 893
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf13a1afec96f84fb17ed6fe158c2a6
+      internalID: 1705763045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 893
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019855227c0dbf04c8cca492d093c70f
+      internalID: -1187531402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_69
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 893
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fcc506216aa4a4a979db5b658a4edd
+      internalID: -1683714411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_70
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 893
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed96e92c4274d34c939b2460e6ad9be
+      internalID: 742538111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_71
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 893
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd91ae3fcea704e990ec5552de559d
+      internalID: -1516945638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_72
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 893
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac484a87d6250141885313fde660118
+      internalID: 707870504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db57ed08a2f4ca458a39440440aa8a0
+      internalID: -436227010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_74
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d919c8f5841fcab4bb61b84287f47f0b
+      internalID: 1228754422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f2630349044b4fbd8042b2761f423
+      internalID: -242870655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56332e0dad1aa4b469005b37ca01399f
+      internalID: -1475225799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe2ce2e9fe89294a82302e235807955
+      internalID: 2081239762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_78
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b904c8146e97374fac9783bead9f576
+      internalID: 238620875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd29c683d3a82e4b96e23f2265e1ece
+      internalID: -1891266302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_80
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccc8db6dfb616948ad4240c461ab6cc
+      internalID: -51564393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c85191a0deb16499d80fbda3f530cd
+      internalID: -928666696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_82
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1668eda98e8fbd44d9d4272b7d13435e
+      internalID: -610184709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_83
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b30f00bd06c88244aee4dc7bc7e79c0
+      internalID: -1899369542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_84
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0372f436ec205f942a260758f4d3b427
+      internalID: -1440944005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_85
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af41a0c61316747bbd505aeb03fc62
+      internalID: -1469857058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_86
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c66dc60a9eb90442ba3363f0a1cf26d
+      internalID: -305364480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_87
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181002f006975e5469043588f7829cbc
+      internalID: -782893076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_88
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559597cbae56f534ca6c73e3b5ce7326
+      internalID: -603329172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_89
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 843
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89350935f28e8504f82e5ba2e20f54a1
+      internalID: 1391920250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7a77d70593cde44b509d432b57b9f8
+      internalID: -1197989842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_91
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42344c1a9e963ff419fed5280b5b3bab
+      internalID: -1104875560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0723c23653f43a343bf3af5b340fafcb
+      internalID: 804785161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_93
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200e366cb8d0adc46ab28a2b8b37152f
+      internalID: -1167162361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a696adddb79ac740bdf56ad394a233f
+      internalID: 1554549406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_95
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf5963ef0b889843ba6221fbce0c316
+      internalID: 1689739581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_96
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1510afd62edb6464d8e8a84b73b51e37
+      internalID: 1344211793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_97
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9ab34cc19da65418008cf87f8cb70c
+      internalID: -1039480586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_98
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587b304a548d0a34daeeb727b5a85189
+      internalID: -1128657890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_99
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cff09bbcc7b2ba4f9ac22a1b2272d78
+      internalID: -1223597684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac500222eba8a884592bb39374f77f46
+      internalID: 1677738306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_101
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185bf53e7ac2c654cbb8df68a9fb03e8
+      internalID: -233481700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_102
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313e29519967965448fa2042b3522b18
+      internalID: 820028241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_103
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f9a9ac69d18b04f93e81104723002c
+      internalID: -367297239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_104
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4805ab77a8ff4469c00c00be7d056f
+      internalID: 1927814196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_105
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0173ad83a4212e4fab5659d4666151e
+      internalID: 998782823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_106
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 793
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8689ffca13814ab2880681652bf5b
+      internalID: -1342735517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed836c0ddfaa1042a2cda835d6676f5
+      internalID: -131113730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_108
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2cb1ff2db16ce4ebce02a8379a47c1
+      internalID: 131300590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_109
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab1cdd1c2ec384382b789eb0262019
+      internalID: -686036811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_110
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580a0947ec6ed284caa1655642580488
+      internalID: -1301579257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_111
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f4e6d56d37cc41ac668351a01ffc0
+      internalID: 264618136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_112
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27bc649ebf75c4dbe0a984c928ff53
+      internalID: 791583261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_113
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6633db9339b64f74cb89003c187b9c8b
+      internalID: -944545440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_114
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c716dcb9e70af0c4fadc773af91bb58a
+      internalID: 1264978430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7bc1a566c4764686f43501614818a
+      internalID: 717140143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_116
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098c7d6ffba70142833885c385450e7
+      internalID: -82924994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_117
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee27cd26e9f0f428fb86fff88a9b69
+      internalID: -1824715301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_118
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176c94af57339ee488dc283eea738a1f
+      internalID: -1439150578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_119
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa0b45ccdfe28241b82b6fe6d77b80f
+      internalID: -1713067579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_120
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43fcfe07767d194db79acccb89bd01d
+      internalID: 789396347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_121
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ebcf28eeb3a9459f389f6ca8e448c
+      internalID: 659206333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_122
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b326cf05ee9cecd498228e0a1ab97314
+      internalID: 1921647589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_123
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 743
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a4f7c7bf2cb2499bde36591ca228c
+      internalID: -806529302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463b5abe6c379a44d9301e69b3928bbf
+      internalID: 1388026736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_125
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0af2b9af64bbb4484f2e3eca8535f9
+      internalID: 345057444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_126
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0878cfb7a742b0d469682e8ba20b29b9
+      internalID: -329801218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_127
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc7dd3a146154948ab1b0172249bedb
+      internalID: 983961907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_128
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e870ca2abe087314ba8b64ad79e84d55
+      internalID: -1724748163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_129
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a038e51444e142974db52496fd10f
+      internalID: 1761079704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48bb02b0a87c87419a4b17d721f38a9
+      internalID: -673978936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_131
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42231a66474655408e19c0dd7676aeb
+      internalID: -670078982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_132
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c99f8cca3513a41be6c677ca93f690
+      internalID: -1452603363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_133
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b25ddbaf201843a93d15bddcd07d1
+      internalID: -270469436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_134
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9018391ce0b74ac439891aaae2052f69
+      internalID: -169722734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_135
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accf2e0ff1c16b043af5eb0571d78088
+      internalID: 252251589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3ff9db5e311e940b5f2af60eac4898
+      internalID: 1404589726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_137
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fb2ddb73ecada48a30c36a744e50e6
+      internalID: 208243192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_138
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a79a39efb1f19b4992945c64d7bfbd6
+      internalID: 575704446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_139
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e42e8e28599a4c9f2ce747e340624
+      internalID: -1239303414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_140
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 693
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b326227574d424891e47e32645fdf1
+      internalID: -1259681653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab9250833c90a244aa729655deb6919
+      internalID: 1562799383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_142
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08655e892e52bc9409f521ea25987ca4
+      internalID: -771954128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_143
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5ee6775c3368741a0ccede5b09cfcf
+      internalID: 1645272004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_144
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3668482d628878b4ea84ba793b36f9d2
+      internalID: 2035985172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_145
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677775503762ed4b92a7ee464890350
+      internalID: -104096056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_146
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a095c91ad05d03b4c9678971880fae9b
+      internalID: -1700540453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_147
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ab86daae0264e479847cba4ece37ef
+      internalID: 1247286111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_148
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8894808474d1f02438f9f0aad00c3bad
+      internalID: 1783595373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_149
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9af66d8aa53696479b27682762344a1
+      internalID: 2127302564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_150
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78e46c731e05014d84521dbad9ffa13
+      internalID: 583416086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_151
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171f8be82cffec44bed15c11859e3ea
+      internalID: 4788859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_152
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dc5ca29ab12d24fa1e30f0d771eb1c
+      internalID: -831938691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_153
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1690ef79dc236b54288ac450bde89cf2
+      internalID: 1345250017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_154
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0478bb1b74787374991e26005fb191f3
+      internalID: 58754991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_155
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811a2d9cfabdacf4180d18c1ffab9eb3
+      internalID: -1845759907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_156
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb5f72b5dd08984ea2f642e239a5220
+      internalID: 625371166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_157
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 643
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089e2c249855db54e9b5898c601d8b00
+      internalID: -797979415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083cbb0f4041a6942b2de8db113389b4
+      internalID: -52485281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_159
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124e967d0f4f5dd44afade52260e0050
+      internalID: -1314920805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_160
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee376d6a62f8534dac61477bf500f30
+      internalID: 707345662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_161
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1be7ef3666adf4a80d3916f9475664
+      internalID: 1847355654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_162
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96eb19dcb6676b40a3fb4424b94508c
+      internalID: -1341184482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_163
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837165753b7ea944d8e4d6fc316bf2fe
+      internalID: -630053143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_164
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0da595f5e0e5d42b9482a1408d0e5d
+      internalID: -993705958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_165
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d72e03a50ca474ca40bae89e867338
+      internalID: 687365012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_166
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884121cdade03514ba0e193989cd26e5
+      internalID: -959264587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_167
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169203d08ab7a14890134268f30681c
+      internalID: -1572473562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_168
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2242a4364a0594b803880fd95a1814
+      internalID: 784474239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_169
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb918f63afdb794386d0da8e8c02308
+      internalID: 756698111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_170
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a855938505ebbd54c81b49f5a901b881
+      internalID: -547953932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_171
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664b9e643d7c5014999b77f6ca65a0c3
+      internalID: -209711252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_172
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9f5d1a1d91cd74b8a766053ed8219f
+      internalID: 1961296817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_173
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f28940bc25f44f43bd61fba07ff12eb
+      internalID: 1809709144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_174
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 593
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c40a801fbafe314494b4d87cef8ad96
+      internalID: 738057130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9a320b48f7ca84ba572fb722cac16b
+      internalID: 1311698161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_176
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd7853eb6e2f2e4cabba366151ab4e6
+      internalID: 704981098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_177
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71213b0c808fa47408a504d2bf90b6d4
+      internalID: 1398943968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_178
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3612b3284dec1749bc798a77fe7f4f2
+      internalID: 310331811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_179
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaffc73e4cfeed45a221d71b2d1047f
+      internalID: -325501219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_180
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35626a99c5db4ce40bf2128ade468964
+      internalID: 1712460094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_181
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79393dc276df23f46bfa54f6018a6f64
+      internalID: 2102145650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_182
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08edaa530b99a4f4fb46c5df37045198
+      internalID: -634407824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_183
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc7ce37531aece41b8464b18812cac7
+      internalID: 2029513037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_184
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe9bc13d40d0ee44b07680a6aa88971
+      internalID: -1723231796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_185
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86a3ebf2fc8168448855c64f330dfc5
+      internalID: -71965434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_186
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f80e54ad0617d438d3851f7744398b
+      internalID: 1430122044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_187
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d812fb02ceee4fd41b7ecf91f1e3a31d
+      internalID: 1947448815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_188
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d632b100cba11424482dba84621297d1
+      internalID: 806058775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_189
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3f406d97f4bea4a84966132f26ff5e
+      internalID: -206584968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_190
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69e6386b1817f44699ee4e4a0119fd7
+      internalID: -1172152000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_191
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 543
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c9a88b2b342384e8c6f83084f4da01
+      internalID: 722333674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5416ca85e5974954a983d784829d103f
+      internalID: -886204771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_193
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb0711936038b7428483a1ba27b39b7
+      internalID: -795906753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_194
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb626482f866a4b931cbb4ebf9f1fa
+      internalID: -1326813108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_195
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8e9ca426fb9b44c9be1e7c7bc61dee
+      internalID: -1153529391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_196
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb913267b4dad946a3ae166d81d08e2
+      internalID: 1267375806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_197
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a958971097f3eb14887aa68b046f0366
+      internalID: 2012323515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_198
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170489cd6d4bc0742b5713a654c124be
+      internalID: -307158788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_199
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7f47ba39ff47945b48327578a8bf5e
+      internalID: -85325593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_200
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3a8f291f92af9439d54043693380f1
+      internalID: -984718200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_201
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a502b556fb4d88d47920530fccad649f
+      internalID: 918870282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_202
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fc882df7684e543bc47e5f6a37477d
+      internalID: -1063729883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_203
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183cfd48cf5631147a952c894aefa8f6
+      internalID: 1772830966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_204
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b0c3faf1c00a347bbd5773f4db3c43
+      internalID: -1119933516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_205
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be5be2dbcf35b6489e8f7fe9879f4cb
+      internalID: -1243341902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_206
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4653086bb38c94baf6ae9828e7fe80
+      internalID: 964562053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_207
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0c1c5dcdb281342a655ea6607259f6
+      internalID: 545605728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_208
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 493
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c0fd05e80f15447ab5f36c662cf53f
+      internalID: -72933739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff429e2e3e169b42b3ad16f6790cd63
+      internalID: 1273482577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_210
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b9ceb3efb31c0499be88fa3da84dca
+      internalID: 563040286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_211
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bed179932c8c440837ab876363d8d2
+      internalID: -1170708793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_212
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870302975fb44d647b2ff4bf846b6754
+      internalID: 2021523566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_213
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561d4dd34e7e7b14787dbea72a69996f
+      internalID: 1981999980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_214
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952f61421049ae842840370b09e569b8
+      internalID: 1784556206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_215
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0124bc66972b1614e976b4110c584b68
+      internalID: -1964048049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_216
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fc43f4885d73544ab299373830da87
+      internalID: 1236489052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_217
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc682b9b03e3e8a4e96f733db3004120
+      internalID: 1144763620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_218
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13c36939f6ce09478ff02183ea189f1
+      internalID: -92963577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_219
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72de318494470234e9b0ba89f2053fa1
+      internalID: 2068397099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_220
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af30ecf6fb1e1644976fe54e67fe5da
+      internalID: -1205326254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_221
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1de664b996e914ba7035752df15230
+      internalID: 1641461667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_222
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f940a00058add48ba3b50fd58a11da
+      internalID: -1309944866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_223
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c226d693fdbe49458c3a8f456391cc6
+      internalID: -488599320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_224
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677ef2e4c7b64164d87e3f1553a6a99a
+      internalID: 600114590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_225
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 443
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293964e7c8a2dd3438f8a515666ef695
+      internalID: -1776447569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb81a0d85e7d51459edf5c262a28fd9
+      internalID: 3189057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_227
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d92faf84601fa4798e583da5aab911
+      internalID: -1958702038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_228
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5772efbd548b4458e8a590d393fadd
+      internalID: -182241848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_229
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aec3e6a3ace0e045bc97fdd1a8c6860
+      internalID: -129843981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_230
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085ac315da2a7f445b9b59e6bc39c5e2
+      internalID: 177102983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_231
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c785df7334a8a57409a06e7d8fa02c2a
+      internalID: -444072753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_232
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000066db85cd31c43973195db8055103
+      internalID: 615171044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_233
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1f65f09fcacb843999727112179eb5
+      internalID: 1649074148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_234
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed06325f950a214b8a35f55d08cee51
+      internalID: -1866260906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_235
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb255a6674636499035416a885ccca
+      internalID: -40311467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_236
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a592d6d4ba4e74eb6c43e692b622bd
+      internalID: 854304736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_237
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526ad3febbc824647b134bb19372099e
+      internalID: 581126360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_238
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0581e06e0b468e349b5ee9e25b976fce
+      internalID: -93614096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_239
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282c61c43ea3e514393cff2ef9b9647f
+      internalID: -538435295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_240
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab8048c17445c84ca7d2df276f37dde
+      internalID: -1210851016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_241
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189daeed958e56b4db32813bce247c01
+      internalID: -1271562039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_242
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 393
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c82b6d76b7bba40ada87fd2e774274
+      internalID: -1376927230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_243
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2d141e7544ba44901ea6e75430ce2
+      internalID: -522001820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_244
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3ddea24c47f93469a46fb9dcf16d2d
+      internalID: 133207426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_245
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2880419c3caf64c84ee13f10698fde
+      internalID: -1396727120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_246
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c2825f83907834f9d5a7e73f9cd91c
+      internalID: -441887262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_247
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfaf6cf940271347ab0278bc63d34bf
+      internalID: -1626776279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_248
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c47b1dfd47b02438fce2d0ce3e48d1
+      internalID: -564143668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_249
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3046bbda4ffc902458b70680911e72ed
+      internalID: -594248557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_250
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e5968b3bb78a47bbb84dd28aa3b01
+      internalID: 669891782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_251
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fd1d4d90fb91a468c1adaeb6976453
+      internalID: 1178367647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_252
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fdec289207b35429ed4366dfb700f3
+      internalID: -1057928721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_253
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2fcd37402668f41be166e9a05f23df
+      internalID: 2135221125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_254
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16911ed2068ef8040b1146cd95eaf5dc
+      internalID: 1303310620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_255
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e7fd1d548e4d74c817d791d20c4f25
+      internalID: 316436896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_256
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dd2df1b4bbbad42822e7e58b8033a3
+      internalID: 1017824157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_257
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 343
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c0c34359a9b7842a9932bf8e88551d
+      internalID: 1851989401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_258
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d33dc06b2b97b849a04befce0bad2ca
+      internalID: 166089992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_259
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee212692549b5a479deac140075e00f
+      internalID: -1512774218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_260
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bd7fb08c7c4cc4a9a79475dc63efef
+      internalID: 1561290485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_261
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1e6623ffc012641a8ce4aa9d4bbe63
+      internalID: 327282952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_262
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a13667e00117c4f83385fb2657f54b
+      internalID: 842536492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_263
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84b39b7807d074cb359233abed1ae0
+      internalID: -181649680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_264
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb315522b9d894f96323aca3579c5f
+      internalID: 191469459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_265
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c38c0fae27e1244ab97441b63712da
+      internalID: 159106660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_266
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9501bef5c3c314b4b9cc886fdf0d8ea4
+      internalID: -50619621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_267
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af9be6b9e5fd074285e06afac7dcd85
+      internalID: -1591581636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_268
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd1623894d10d9458a743e85975361e
+      internalID: -1209344904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_269
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d083bbad4b203e94e8c5aa5d6832814f
+      internalID: -1580239987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_270
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d028791ee91cb949b3a52b5647b8756
+      internalID: 1681995076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_271
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f76384194eeb44e84b02e7f22fe44e
+      internalID: 1298475633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_272
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 293
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e60fb2121bc7a74387c517917fff498
+      internalID: 48457406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_273
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 243
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cc5f7326ab21844b2158f40a37b426
+      internalID: -1804178460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_274
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 243
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7d96948640e4440a10ea6af8eca866
+      internalID: -637428564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_275
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 243
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8069ff8d36acf34082be671b5f1e7ee
+      internalID: 2042867573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_276
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 243
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b040923a8059d4493f6277a1730617
+      internalID: 445642033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_277
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 243
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972063a0db4300549b17f29058acfaf2
+      internalID: 276071816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_278
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 243
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b67c447e2e75aa4ba3605f4bacddd1f
+      internalID: -810647006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_279
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 243
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f0d72e1c12b94abf93b7798f0038b
+      internalID: 1054959298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_280
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96014dff5fd70bc449068fcc7f8bc5b3
+      internalID: 1548479571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_281
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4672764216441f5488787f6386983d73
+      internalID: 1248031565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_282
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fe268fb8d24b94cb09ebf9b942bccf
+      internalID: -1106834376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_283
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a5ca250eb3ac4fb1c4a2d20eadb9e
+      internalID: -277514689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_284
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b08673286c68c4bbfeee161e788c21
+      internalID: -1501975167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_285
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a16f90d4a989429e659f6212e0416
+      internalID: -2090747882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_286
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c05522d023a014ca22fa56260ff67b
+      internalID: 419140167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_287
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9e2ab13d0634f4bad6808a22654fa4
+      internalID: -1724820229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_288
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feaf791b8f8097478e17de2bb8693ac
+      internalID: 516568542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_289
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118eea89824a08f4cb4f10e321563189
+      internalID: 1902865915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_290
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b6975530b5d7347a6ef608ac89f456
+      internalID: -912379281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_291
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0468c70071d90a64f807e1a00507da8c
+      internalID: -1922149052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_292
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be15dd1202bec4419dfb31206f9ea00
+      internalID: 2017377171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_293
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86531a94a977ec24498bd34e8099c466
+      internalID: 219217710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_294
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 93
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da5ba5a5d5a9a448d28982e386e1b5
+      internalID: -1375017875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_295
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 93
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c273bbb83dc0bf469bd372d37f6041d
+      internalID: 2083924978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_296
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 93
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e07c187f40f9048939e4ebb2ac95b9
+      internalID: 986794081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_297
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 93
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3038509c1e8bc4d8fa80c5878ec75c
+      internalID: 23192639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_298
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 93
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f8db9663bd77498cb17e1b1b337e3
+      internalID: 1915691214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_299
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 93
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a981ec4c47416947b66b327c33ad415
+      internalID: 1465159396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-entrance-hall_300
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 93
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cd9abaea62a27408bcccb9fa13631e
+      internalID: -583808701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bg-entrance-hall_0: -757560169
+      bg-entrance-hall_1: -777130968
+      bg-entrance-hall_10: 323252748
+      bg-entrance-hall_100: 1677738306
+      bg-entrance-hall_101: -233481700
+      bg-entrance-hall_102: 820028241
+      bg-entrance-hall_103: -367297239
+      bg-entrance-hall_104: 1927814196
+      bg-entrance-hall_105: 998782823
+      bg-entrance-hall_106: -1342735517
+      bg-entrance-hall_107: -131113730
+      bg-entrance-hall_108: 131300590
+      bg-entrance-hall_109: -686036811
+      bg-entrance-hall_11: 795080245
+      bg-entrance-hall_110: -1301579257
+      bg-entrance-hall_111: 264618136
+      bg-entrance-hall_112: 791583261
+      bg-entrance-hall_113: -944545440
+      bg-entrance-hall_114: 1264978430
+      bg-entrance-hall_115: 717140143
+      bg-entrance-hall_116: -82924994
+      bg-entrance-hall_117: -1824715301
+      bg-entrance-hall_118: -1439150578
+      bg-entrance-hall_119: -1713067579
+      bg-entrance-hall_12: -1250168577
+      bg-entrance-hall_120: 789396347
+      bg-entrance-hall_121: 659206333
+      bg-entrance-hall_122: 1921647589
+      bg-entrance-hall_123: -806529302
+      bg-entrance-hall_124: 1388026736
+      bg-entrance-hall_125: 345057444
+      bg-entrance-hall_126: -329801218
+      bg-entrance-hall_127: 983961907
+      bg-entrance-hall_128: -1724748163
+      bg-entrance-hall_129: 1761079704
+      bg-entrance-hall_13: -636811599
+      bg-entrance-hall_130: -673978936
+      bg-entrance-hall_131: -670078982
+      bg-entrance-hall_132: -1452603363
+      bg-entrance-hall_133: -270469436
+      bg-entrance-hall_134: -169722734
+      bg-entrance-hall_135: 252251589
+      bg-entrance-hall_136: 1404589726
+      bg-entrance-hall_137: 208243192
+      bg-entrance-hall_138: 575704446
+      bg-entrance-hall_139: -1239303414
+      bg-entrance-hall_14: -1397007755
+      bg-entrance-hall_140: -1259681653
+      bg-entrance-hall_141: 1562799383
+      bg-entrance-hall_142: -771954128
+      bg-entrance-hall_143: 1645272004
+      bg-entrance-hall_144: 2035985172
+      bg-entrance-hall_145: -104096056
+      bg-entrance-hall_146: -1700540453
+      bg-entrance-hall_147: 1247286111
+      bg-entrance-hall_148: 1783595373
+      bg-entrance-hall_149: 2127302564
+      bg-entrance-hall_15: -556594397
+      bg-entrance-hall_150: 583416086
+      bg-entrance-hall_151: 4788859
+      bg-entrance-hall_152: -831938691
+      bg-entrance-hall_153: 1345250017
+      bg-entrance-hall_154: 58754991
+      bg-entrance-hall_155: -1845759907
+      bg-entrance-hall_156: 625371166
+      bg-entrance-hall_157: -797979415
+      bg-entrance-hall_158: -52485281
+      bg-entrance-hall_159: -1314920805
+      bg-entrance-hall_16: 142950310
+      bg-entrance-hall_160: 707345662
+      bg-entrance-hall_161: 1847355654
+      bg-entrance-hall_162: -1341184482
+      bg-entrance-hall_163: -630053143
+      bg-entrance-hall_164: -993705958
+      bg-entrance-hall_165: 687365012
+      bg-entrance-hall_166: -959264587
+      bg-entrance-hall_167: -1572473562
+      bg-entrance-hall_168: 784474239
+      bg-entrance-hall_169: 756698111
+      bg-entrance-hall_17: 790870507
+      bg-entrance-hall_170: -547953932
+      bg-entrance-hall_171: -209711252
+      bg-entrance-hall_172: 1961296817
+      bg-entrance-hall_173: 1809709144
+      bg-entrance-hall_174: 738057130
+      bg-entrance-hall_175: 1311698161
+      bg-entrance-hall_176: 704981098
+      bg-entrance-hall_177: 1398943968
+      bg-entrance-hall_178: 310331811
+      bg-entrance-hall_179: -325501219
+      bg-entrance-hall_18: 1939129470
+      bg-entrance-hall_180: 1712460094
+      bg-entrance-hall_181: 2102145650
+      bg-entrance-hall_182: -634407824
+      bg-entrance-hall_183: 2029513037
+      bg-entrance-hall_184: -1723231796
+      bg-entrance-hall_185: -71965434
+      bg-entrance-hall_186: 1430122044
+      bg-entrance-hall_187: 1947448815
+      bg-entrance-hall_188: 806058775
+      bg-entrance-hall_189: -206584968
+      bg-entrance-hall_19: -2111755214
+      bg-entrance-hall_190: -1172152000
+      bg-entrance-hall_191: 722333674
+      bg-entrance-hall_192: -886204771
+      bg-entrance-hall_193: -795906753
+      bg-entrance-hall_194: -1326813108
+      bg-entrance-hall_195: -1153529391
+      bg-entrance-hall_196: 1267375806
+      bg-entrance-hall_197: 2012323515
+      bg-entrance-hall_198: -307158788
+      bg-entrance-hall_199: -85325593
+      bg-entrance-hall_2: 923881035
+      bg-entrance-hall_20: -213694737
+      bg-entrance-hall_200: -984718200
+      bg-entrance-hall_201: 918870282
+      bg-entrance-hall_202: -1063729883
+      bg-entrance-hall_203: 1772830966
+      bg-entrance-hall_204: -1119933516
+      bg-entrance-hall_205: -1243341902
+      bg-entrance-hall_206: 964562053
+      bg-entrance-hall_207: 545605728
+      bg-entrance-hall_208: -72933739
+      bg-entrance-hall_209: 1273482577
+      bg-entrance-hall_21: -971787391
+      bg-entrance-hall_210: 563040286
+      bg-entrance-hall_211: -1170708793
+      bg-entrance-hall_212: 2021523566
+      bg-entrance-hall_213: 1981999980
+      bg-entrance-hall_214: 1784556206
+      bg-entrance-hall_215: -1964048049
+      bg-entrance-hall_216: 1236489052
+      bg-entrance-hall_217: 1144763620
+      bg-entrance-hall_218: -92963577
+      bg-entrance-hall_219: 2068397099
+      bg-entrance-hall_22: -52662810
+      bg-entrance-hall_220: -1205326254
+      bg-entrance-hall_221: 1641461667
+      bg-entrance-hall_222: -1309944866
+      bg-entrance-hall_223: -488599320
+      bg-entrance-hall_224: 600114590
+      bg-entrance-hall_225: -1776447569
+      bg-entrance-hall_226: 3189057
+      bg-entrance-hall_227: -1958702038
+      bg-entrance-hall_228: -182241848
+      bg-entrance-hall_229: -129843981
+      bg-entrance-hall_23: 235381144
+      bg-entrance-hall_230: 177102983
+      bg-entrance-hall_231: -444072753
+      bg-entrance-hall_232: 615171044
+      bg-entrance-hall_233: 1649074148
+      bg-entrance-hall_234: -1866260906
+      bg-entrance-hall_235: -40311467
+      bg-entrance-hall_236: 854304736
+      bg-entrance-hall_237: 581126360
+      bg-entrance-hall_238: -93614096
+      bg-entrance-hall_239: -538435295
+      bg-entrance-hall_24: -2052022965
+      bg-entrance-hall_240: -1210851016
+      bg-entrance-hall_241: -1271562039
+      bg-entrance-hall_242: -1376927230
+      bg-entrance-hall_243: -522001820
+      bg-entrance-hall_244: 133207426
+      bg-entrance-hall_245: -1396727120
+      bg-entrance-hall_246: -441887262
+      bg-entrance-hall_247: -1626776279
+      bg-entrance-hall_248: -564143668
+      bg-entrance-hall_249: -594248557
+      bg-entrance-hall_25: -2128350492
+      bg-entrance-hall_250: 669891782
+      bg-entrance-hall_251: 1178367647
+      bg-entrance-hall_252: -1057928721
+      bg-entrance-hall_253: 2135221125
+      bg-entrance-hall_254: 1303310620
+      bg-entrance-hall_255: 316436896
+      bg-entrance-hall_256: 1017824157
+      bg-entrance-hall_257: 1851989401
+      bg-entrance-hall_258: 166089992
+      bg-entrance-hall_259: -1512774218
+      bg-entrance-hall_26: -1414707799
+      bg-entrance-hall_260: 1561290485
+      bg-entrance-hall_261: 327282952
+      bg-entrance-hall_262: 842536492
+      bg-entrance-hall_263: -181649680
+      bg-entrance-hall_264: 191469459
+      bg-entrance-hall_265: 159106660
+      bg-entrance-hall_266: -50619621
+      bg-entrance-hall_267: -1591581636
+      bg-entrance-hall_268: -1209344904
+      bg-entrance-hall_269: -1580239987
+      bg-entrance-hall_27: 1514214865
+      bg-entrance-hall_270: 1681995076
+      bg-entrance-hall_271: 1298475633
+      bg-entrance-hall_272: 48457406
+      bg-entrance-hall_273: -1804178460
+      bg-entrance-hall_274: -637428564
+      bg-entrance-hall_275: 2042867573
+      bg-entrance-hall_276: 445642033
+      bg-entrance-hall_277: 276071816
+      bg-entrance-hall_278: -810647006
+      bg-entrance-hall_279: 1054959298
+      bg-entrance-hall_28: -26787658
+      bg-entrance-hall_280: 1548479571
+      bg-entrance-hall_281: 1248031565
+      bg-entrance-hall_282: -1106834376
+      bg-entrance-hall_283: -277514689
+      bg-entrance-hall_284: -1501975167
+      bg-entrance-hall_285: -2090747882
+      bg-entrance-hall_286: 419140167
+      bg-entrance-hall_287: -1724820229
+      bg-entrance-hall_288: 516568542
+      bg-entrance-hall_289: 1902865915
+      bg-entrance-hall_29: -1268402488
+      bg-entrance-hall_290: -912379281
+      bg-entrance-hall_291: -1922149052
+      bg-entrance-hall_292: 2017377171
+      bg-entrance-hall_293: 219217710
+      bg-entrance-hall_294: -1375017875
+      bg-entrance-hall_295: 2083924978
+      bg-entrance-hall_296: 986794081
+      bg-entrance-hall_297: 23192639
+      bg-entrance-hall_298: 1915691214
+      bg-entrance-hall_299: 1465159396
+      bg-entrance-hall_3: 1798589177
+      bg-entrance-hall_30: -68183129
+      bg-entrance-hall_300: -583808701
+      bg-entrance-hall_31: -620602201
+      bg-entrance-hall_32: -1720214344
+      bg-entrance-hall_33: 1045774299
+      bg-entrance-hall_34: -1386174669
+      bg-entrance-hall_35: 295709865
+      bg-entrance-hall_36: -1156175180
+      bg-entrance-hall_37: 777546657
+      bg-entrance-hall_38: 572585824
+      bg-entrance-hall_39: -1963603529
+      bg-entrance-hall_4: -927999286
+      bg-entrance-hall_40: -379824051
+      bg-entrance-hall_41: -476445188
+      bg-entrance-hall_42: -299182869
+      bg-entrance-hall_43: -386257808
+      bg-entrance-hall_44: 1485602184
+      bg-entrance-hall_45: -1590116801
+      bg-entrance-hall_46: 1536122630
+      bg-entrance-hall_47: 1644870526
+      bg-entrance-hall_48: 1763413593
+      bg-entrance-hall_49: 322809931
+      bg-entrance-hall_5: -918555411
+      bg-entrance-hall_50: -1504313527
+      bg-entrance-hall_51: 1528518359
+      bg-entrance-hall_52: 1420906457
+      bg-entrance-hall_53: -1660103471
+      bg-entrance-hall_54: 1841388991
+      bg-entrance-hall_55: 1605387452
+      bg-entrance-hall_56: -407387781
+      bg-entrance-hall_57: -809298837
+      bg-entrance-hall_58: 577943107
+      bg-entrance-hall_59: 2112767902
+      bg-entrance-hall_6: 1764087138
+      bg-entrance-hall_60: 511223939
+      bg-entrance-hall_61: 1891534590
+      bg-entrance-hall_62: -110220749
+      bg-entrance-hall_63: 1484260974
+      bg-entrance-hall_64: 102737364
+      bg-entrance-hall_65: 828402171
+      bg-entrance-hall_66: -898844440
+      bg-entrance-hall_67: 1705763045
+      bg-entrance-hall_68: -1187531402
+      bg-entrance-hall_69: -1683714411
+      bg-entrance-hall_7: 122108913
+      bg-entrance-hall_70: 742538111
+      bg-entrance-hall_71: -1516945638
+      bg-entrance-hall_72: 707870504
+      bg-entrance-hall_73: -436227010
+      bg-entrance-hall_74: 1228754422
+      bg-entrance-hall_75: -242870655
+      bg-entrance-hall_76: -1475225799
+      bg-entrance-hall_77: 2081239762
+      bg-entrance-hall_78: 238620875
+      bg-entrance-hall_79: -1891266302
+      bg-entrance-hall_8: 183437138
+      bg-entrance-hall_80: -51564393
+      bg-entrance-hall_81: -928666696
+      bg-entrance-hall_82: -610184709
+      bg-entrance-hall_83: -1899369542
+      bg-entrance-hall_84: -1440944005
+      bg-entrance-hall_85: -1469857058
+      bg-entrance-hall_86: -305364480
+      bg-entrance-hall_87: -782893076
+      bg-entrance-hall_88: -603329172
+      bg-entrance-hall_89: 1391920250
+      bg-entrance-hall_9: 439848341
+      bg-entrance-hall_90: -1197989842
+      bg-entrance-hall_91: -1104875560
+      bg-entrance-hall_92: 804785161
+      bg-entrance-hall_93: -1167162361
+      bg-entrance-hall_94: 1554549406
+      bg-entrance-hall_95: 1689739581
+      bg-entrance-hall_96: 1344211793
+      bg-entrance-hall_97: -1039480586
+      bg-entrance-hall_98: -1128657890
+      bg-entrance-hall_99: -1223597684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

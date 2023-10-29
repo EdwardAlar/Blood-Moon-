@@ -1,0 +1,5693 @@
+fileFormatVersion: 2
+guid: 42468990dd735334096559b88ace3bf3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg-wygol-village_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe056e251f15241b4f2570f101ba00
+      internalID: 1904925910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b64ee02af93984ebe676882b34c7ac
+      internalID: 2130952543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5214a2f61244de41bd7556dfdc8363e
+      internalID: -1089129227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b399867bf27f6d24a918c3c52c38ba43
+      internalID: 482609088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5685e69b83ebd934496da9682ad27462
+      internalID: -1809554241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044715d1dac2e7647bb59fd502a26021
+      internalID: -2091316474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a0d08e119d5847b433c9ea643f116
+      internalID: 2920286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ba108065ea1de4d92ea282ff6fe63d
+      internalID: -1826648219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d0bd83421211f4aab13629b655d8a6
+      internalID: -643620339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2226ba4660e58140a4cb50f853a033f
+      internalID: -483690295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dbd5f81ed711545a3fe2d8436d9e0e
+      internalID: 551809940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5108f620f53860242a71b0fb6f3a0271
+      internalID: -1629518286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75465e306dd17e846ac73be62c6f4dd4
+      internalID: -1815341967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d761c0e8e0c1b8942a21e0750d89c92f
+      internalID: -2080096923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 622
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df792eeeed78e0b48877e4e1e0c77a05
+      internalID: -283304647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6382af1af58fa574e8e6f10889976ecd
+      internalID: 1129151263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e3dffe08f836b459e5e0a627581801
+      internalID: -17964583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c78009003bbe942801db318c8c7afc
+      internalID: 227089109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158d2163312ddbd4da0ce6fbb2d440e5
+      internalID: 1252906612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea416ba546a43e7498d70b04e92841c1
+      internalID: -198163527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868dfd3bcf18c6d4286fd2e694cd6c46
+      internalID: 1138375207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5aa52ecc205cb43b6047307afdeb73
+      internalID: -1876255632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732fa96ab073f6a4b875f80e9796f680
+      internalID: -1651331146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b645398565d125d439ec840f8edcd28f
+      internalID: -849518826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c6d9e03c2c85042b89951ee1e46b29
+      internalID: -1992375660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217104bb9e048dc4fa2502692a806552
+      internalID: -1567980342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f082600c3d2a54197b4ad8ca29eac2
+      internalID: 838681767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74cb4068568b0f45868215821247b85
+      internalID: 86501663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_28
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b65cf37428d7a4dbbaad83e88e6703
+      internalID: 1305312028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d97f03543e9ca4d8e93692b8822e8c
+      internalID: 1084694408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_30
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb86123f9734f143a9dcbf17b46c65d
+      internalID: 2131156775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a82755fcc961d9469eee98296542c12
+      internalID: 1160127755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_32
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e60328072dee5640b938a00b5fd4c1c
+      internalID: 582919017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_33
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aa2ff36712a524896886142768de31
+      internalID: -1887983177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_34
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7172124de62434b818893c0aeb6b45
+      internalID: -1643017340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 572
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20205c29b106254ca7f9f7ebb95c5dc
+      internalID: -1505351060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85dc356bc5b11b4dad094f8862a8008
+      internalID: 1575633744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ebcfca8ca35cf46a1eed9f4e502fca
+      internalID: -1799285303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb882805cc2afc44dbddef5f43fde01a
+      internalID: -277727166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5fb475970045e4aabe5730f355e425
+      internalID: 229968794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fca32635ac70549ada594ead913e09
+      internalID: -1768290715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54753cac55d6c8f408c526c1f20c7c43
+      internalID: 150120667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712857490df999a4c8eb50484d231776
+      internalID: -332828733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0e282707beb664f9578a76af2c7409
+      internalID: 1833848439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a90ab7190c3e047bb577730fb83fb9
+      internalID: -278137142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767dc74e8343d5e4a8dd9d83e5593ce6
+      internalID: -1925391081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4f934995e7a8c4b876eafb2cb0c51e
+      internalID: -400973609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_47
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0be6fb02eb1cf147b99120ed5d47c81
+      internalID: -317059146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_48
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fd265295b290d47a4d65a4fa73c574
+      internalID: -592105065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_49
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74f4d85dd2247d43b6b434ee7ffa64e
+      internalID: 77569512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_50
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48640c73097857845bf3c2b939198c65
+      internalID: 309528830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_51
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f024eaeaf094418cbf06109d8f6af
+      internalID: 1817333159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db3e581c27c5c04fa68423787b2b33b
+      internalID: -1212664120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_53
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f7eeb42933afb408484ff7ea1d22e3
+      internalID: -881652126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_54
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b72e4171a81d5649a698ba8b58e99fc
+      internalID: 421592724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_55
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a2541315383cc478d9c988cc99b897
+      internalID: -1221299676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_56
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eeaa3dd1c2fc04e85b5cbc2dfb4e89
+      internalID: 1806121986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c260d952be9e3b84694f6f67f62f9bda
+      internalID: 1181274678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b90dbcc195785409ef0a1b3389f51d
+      internalID: -1435864081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725d33d611c4c3940b30aef576643e75
+      internalID: 1414384077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449f45e0b14e5f34c9f70007b4cefea0
+      internalID: -338458248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1019498446fc950458d91720af660abe
+      internalID: -72415382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf700ea964601418f67c99ebd580a0
+      internalID: -768164810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be9176de675a974e9cf52a7ac234924
+      internalID: 396765087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_64
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601241e3d49734f4c8c368b2c228d582
+      internalID: 1632093059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ca39576b7eb64b96d719befe08165
+      internalID: 990706528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_66
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6896b7131a90c4fbdee28cf9e87fd6
+      internalID: 232622335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_67
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819c15d37d585204eb924bd665cd4b41
+      internalID: 339473583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_68
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c44891545de8348823a8fd434ffe49
+      internalID: 5082927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b8bb1757f1420449685e31e5aaa1f2
+      internalID: -1124632529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_70
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49990b76b4c4acd4aa78ad2b00e5e359
+      internalID: 1446219797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_71
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b7fa5d03ecd4d4d964f1020db7fef2
+      internalID: 1472579778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_72
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6553c993c70d6cb43ba2c600dd88df85
+      internalID: 1308376360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_73
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51335eb8c78cbd44fa4f23eaa9975ccc
+      internalID: 1314005364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_74
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa8306bff5bee44aa417d0e5df26a78
+      internalID: -1007538296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_75
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5728d7d670b78e14a9ba09d74a8ffe87
+      internalID: 571056304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_76
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9975b7db70a15dd4eb1a0ac07f61974b
+      internalID: 879450211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_77
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 472
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07dfe10a07205d4fab6cb83d3810302
+      internalID: 84340981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abdb9692456e0c4284e6a890cfbb42f
+      internalID: 123167509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_79
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44153465e219993459d54aed6cb6d43d
+      internalID: -400879075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b326e8aad8689545ac397b4e2e114c8
+      internalID: -524965518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_81
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b6300e553bb654f84ab4d691bf02ee
+      internalID: -897207414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0148ac68879809749b20208d41fa62c4
+      internalID: -2120381975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6a76c2ba4367d4aacfc7ff556ce0f8
+      internalID: -271178765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_84
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53afbf917c8e91b4398d3618153e077d
+      internalID: -570032168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_85
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7ba80d1da8e84e8310fa0cd84dbd6
+      internalID: 2001793782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a222d94f16e3a14abce117f4b403dbe
+      internalID: 1771521601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_87
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfe4c6a7c3276c478b3bf8eafcbfc1b
+      internalID: 1370924325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_88
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9392b41d6c30c604eb41c6ee8ccebb79
+      internalID: -1489902227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_89
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57374168d214c4e40b3cb0c28d838f45
+      internalID: 1368520628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_90
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debfea32a68d5cb4181c1289b3a4059c
+      internalID: 1970481397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_91
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c867793a244742abb055da081ae58
+      internalID: 1091070447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_92
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af308c02617680a4dbf1b9de915f3029
+      internalID: 1494709324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_93
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2fd10e3041e9140b310d85366373a5
+      internalID: -35080791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_94
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a361d1772bb686e41be0c5317f5e0873
+      internalID: -1745737910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_95
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8fe4f1990b5c408de8a548d2ce8ca
+      internalID: 1598992237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_96
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea209ea010be114bbe80500f20c1ff7
+      internalID: -1444481955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_97
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96e19db8014b664a8525630666346d0
+      internalID: 1705432075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_98
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 422
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469e5d84acff57a4287f5c4cfd9ba9db
+      internalID: 1869877803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc3ad7e20dbf2d48a24854f0ea0e371
+      internalID: -226289871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515d584973974804190ae87ea1d197d6
+      internalID: 1124490601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_101
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c6618c94ab7984d82c6be5d1a392b5
+      internalID: 2145532248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c26acf15bcaeb469452ce1ae4e9378
+      internalID: -967256139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_103
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9da12c43937ec4c979f6ccaa9c7ab9
+      internalID: -249789016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_104
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e54140c9f78086468c39bc3c3f2d36b
+      internalID: -1867566757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_105
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27213404931a2a44fa6f9153009e8426
+      internalID: 496676376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_106
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e957a3e70a1a340893e1174a27fe55
+      internalID: 1616203397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_107
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9dfe73b3b7c8140a902e28d7c0648d
+      internalID: 362589716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_108
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b2f27653e54a84a999b56c0bce5823
+      internalID: -966422185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_109
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d90dd5d9a2d9e4daab8d6f244a6d8d
+      internalID: -68135983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_110
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2624e364f0413c645966b12957891aa9
+      internalID: -928415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_111
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a501c2a9bfcc1349a5fa8dcf1a048cb
+      internalID: 477983118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_112
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2895c3db13957a64182d29af1a84af81
+      internalID: 1416491895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_113
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc9cda386a580745b6bbe22ed6ca22f
+      internalID: -2021388871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_114
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320749ecb9039041ac143e6bf5ad210
+      internalID: -83795638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_115
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f99e0b1795fe4b9ef3d3756e1e87e
+      internalID: -1239019742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_116
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3273893e6ee2754db79d7286b5c4486
+      internalID: 538749320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_117
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9661006943b1e2546b7251c2048721d4
+      internalID: 660914527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_118
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f27510ce5c6184298fb405de5937e6
+      internalID: -833093392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34dc30fbd702145a8ee8e0b7c27652
+      internalID: 963242087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_120
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d5c919ee76883438fa98039c5854b2
+      internalID: -1603193481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_121
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c3b8dd5fd4454e87392abfcd7623f
+      internalID: -2027608443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_122
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd916e53249484ca5933beec95e66c
+      internalID: 1708821197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464793e12a09f1f46b13eb3ed0e1eb5d
+      internalID: 2138239205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_124
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5e0064a22c2f8418761faee0699937
+      internalID: -151754096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_125
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e40e770b08c7c74ea12a6b97e163dfd
+      internalID: 1292322977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_126
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93edf9ea6ea50174e8af56b5ed229cf2
+      internalID: 1764173259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_127
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3444b300425477479f973012931c5ea
+      internalID: 252848966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_128
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ddfc72e163d6e40821bd31ac428920
+      internalID: -906674680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_129
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7013c663f20b3a448f86dd24b6f4b09
+      internalID: -916004225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_130
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ee81c2f76595048b69a93e74924747
+      internalID: -1022794609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_131
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac4a277da62586408043647df9e2b0a
+      internalID: 1057081030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_132
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a1ce96df4f5c4e8876e83e61e3965
+      internalID: -730945745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834afad284686ad4a80cc5b72782d3fe
+      internalID: 1692260704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_134
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dea443776fa2104ea518d8c84ce9e46
+      internalID: 1351925331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_135
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e9f43bbecb63442850fcdb434cddf5
+      internalID: -1032925577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_136
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db2bcaa7f23704c95a7f1c2b241d11
+      internalID: 155836663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_137
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91147e6d85f8ad049b0d5d690d0bd328
+      internalID: -1742504944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_138
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b63430660d2af43bdde3950829a68b
+      internalID: -2035555403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_139
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4eb8e0e581594e9725e67536f3b26
+      internalID: -1418392474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_140
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08649465e3f61d48813908f7aca0f36
+      internalID: 748008035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4368866de8cb67a4585696c28fd6fb9d
+      internalID: 343467267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_142
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f5cc10c6752044b6e2cea3545c693
+      internalID: 614636887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_143
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf6b3f4b2101914097dc47ced72a845
+      internalID: 1024747584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_144
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4703a5560f89f44b3f2f01d1448449
+      internalID: -1916134143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_145
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea1711f48145de4088aa6332c0ad1c4
+      internalID: -262834435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_146
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb4a67130c74b4f838671c486705e2
+      internalID: 1244031859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_147
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04266e70305f2984d9e58a2537a92441
+      internalID: -2001625023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_148
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442006a55eacfb9439ee8e95994f3bbf
+      internalID: 363873135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_149
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 272
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f78b4e5e5b8e347ae0004a0973d2b8
+      internalID: -190123810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f93bafe7e696c34dbb30bf21ec35f3d
+      internalID: -301849577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_151
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8d1a4cca0af64d9f739676e5da36b
+      internalID: -1074569089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_152
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80297cf917624764e827983b0ddbc896
+      internalID: -443722337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_153
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7842046200ed0434da3017743b4280e8
+      internalID: 1025618873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17717b9e10d83394a976ef6c12a45e71
+      internalID: -1131544129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_155
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f6ee0990a9d894baba75537aef7f35
+      internalID: 1526879149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_156
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d9954f28732fb4bbcb769ad2568aef
+      internalID: 1613388282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_157
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b52d6d950eb647a4f67965aeb73b3
+      internalID: 940980010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_158
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedc715822cfdfe428ad3098a71b7d78
+      internalID: 558332693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_159
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a72763888e2da549bc9307444c06ad8
+      internalID: -177482440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_160
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f1349b265f4c949a1622ce51cecc43
+      internalID: -361894839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_161
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1cc2e545bb9dc40932656f4e7b6804
+      internalID: -392944639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_162
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c372d9a39b3115543945cd1fe1b33c0b
+      internalID: -984616796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_163
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8edeb4d777c4114b8e68916e81bc4f3
+      internalID: 475289849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_164
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43675cf21343ad64aae5e4ad5f539827
+      internalID: 1642334474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_165
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955702125dbc13f42946b10433936d00
+      internalID: 426367017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_166
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e312edb4e5b6419478c55e0dfc4cdd9c
+      internalID: 1849515612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_167
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520b9a4b46f30ae4ba5f54e0d985aa4f
+      internalID: -1956745985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_168
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f170e6cb4fe3f4a83e311fe4820fd0
+      internalID: -640425219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_169
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 222
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f967e2ac516644743aa35a53c7fcf4a6
+      internalID: -783179915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e634817db829c346a1eaccf119c7d5c
+      internalID: -629198123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_171
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2261cc4b545f129418eaf8f760b8f3e9
+      internalID: 856224844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_172
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052d284dd7109984c8f31450f35c4bbd
+      internalID: -2092603266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_173
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e84fe0d124b824c8532d43f8696465
+      internalID: 1053706946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_174
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50ca039300867b4ca464820fbb77bae
+      internalID: -421772935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_175
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831ca326a6587d94699d57c4ac4a7001
+      internalID: 2003055654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_176
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe18318b80c0a5c44b99706ebd5eb645
+      internalID: 167178372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_177
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a730bcaf7ed048488bcc0f648a131f3
+      internalID: 186769288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_178
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cf0453e5f6c6644849cec0460fe698
+      internalID: -1558041697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_179
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e0560135be0944a8543c220677f99b
+      internalID: 1510312590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_180
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8604574d330f1249ad001550a4e9b1d
+      internalID: 675324402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_181
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27b4dc9cf528974cbe7522f05d910b0
+      internalID: -1160441249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_182
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c604b2961c8b8b4da74f68d5087a3c9
+      internalID: -258153646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_183
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8bbbb3e7959c742a9942bd9bcf6539
+      internalID: 124682308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_184
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7f3aa7565e0dd4492543639c4d753d
+      internalID: 1295972310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_185
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e98dc68df1be054fb883b15e41d93d0
+      internalID: -316367578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_186
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc21e744c69881547a13737359f6141d
+      internalID: 2022840181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_187
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529aeddcbdcd0924ab704272d4413e28
+      internalID: 40487781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_188
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f5f53422cfd7a42ad2c8487932da37
+      internalID: -1579731382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_189
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590d3832e241c0b41955fa310aa8f3a9
+      internalID: -112015590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_190
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b041b55aa749774bb3569b25249752d
+      internalID: -1245026182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e8c48aa1a75124592580537ba775b7
+      internalID: -676441246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_192
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593c0184d023f444bb5de937d22c9cb
+      internalID: -853754970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_193
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb531d78ad9e2244d97e4a15f43aa63c
+      internalID: -1606324184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_194
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e141dd44a04c5e34daa6bd1070d72486
+      internalID: 1761203834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_195
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e47d15f3528bcd449abfe954015d48c
+      internalID: 1319727554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_196
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e5b785467d04e40bc619f2fe829a6a
+      internalID: 261284827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_197
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a429980ff340c034ea0e6d5d08a89ed9
+      internalID: 1234359691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_198
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa0c4c54d0a34e49b4409908861ecb5
+      internalID: -2135613361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_199
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa05f7b03e53641ab0855598a343cb
+      internalID: -813786301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_200
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552f3b20e3bdcd942898580126c316a9
+      internalID: 1118815311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_201
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfded5c62e20e8e4e87785198d55420a
+      internalID: 1943567392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_202
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59027b233af881e42bee1e608966408f
+      internalID: -35462720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_203
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cedc2c254ee98a4884859af9f16c9c4
+      internalID: -150048158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_204
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be4a72eeb7ba5140bfc3a1671145563
+      internalID: 907436668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_205
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bac236d73857f4097c2e5b7f289ce7
+      internalID: 341469618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_206
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf7993e204e9d4a932a33d5571b15e
+      internalID: -1657867110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_207
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef28d59fb9d1d74aadccc0c6f68d807
+      internalID: -1104641225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_208
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0f0f6d168abda4182979241f433e61
+      internalID: -635908431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_209
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cbdf74ec5abec47870b67948d9ec97
+      internalID: 1705276869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_210
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a4062a3f836904dbb67ff2a2cbae47
+      internalID: 949243372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_211
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 122
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef4babf4cccd54f843e119d0bcf62f
+      internalID: 381168252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28d8b80122d9e94fa19bb09b8de6e77
+      internalID: -1759696289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_213
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fe889f3a9445b4cad22cdb93858149
+      internalID: 211422642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_214
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e580ea9f8c4baff4f88722f5f0fa524a
+      internalID: 597100906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_215
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dd266b49e9cc14493be3d7d81b1a7a
+      internalID: -2036349870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_216
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02318122222a1ed4db13616c568be370
+      internalID: 1464456734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_217
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f1f9225c1c69e4e8ab65c23c45fb1e
+      internalID: -1605619638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_218
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fd1780350f6834db94e3bec0aa578d
+      internalID: 599108268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_219
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948f12ad2db449742be992265594c2a4
+      internalID: -1519463648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_220
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf0570775dc47146baa0d4f9559eff3
+      internalID: -1526649022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_221
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481c8190ecce1e34e826138e01e607f4
+      internalID: 1915294108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_222
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5fd26be028704a87b91bd176a1cb1
+      internalID: -160084750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_223
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0f45eb0141d324fba8440d9b3e0c1f
+      internalID: -323250598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_224
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a024b87feb1887d41bbcca0dcf20f4cd
+      internalID: 365181413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_225
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333aa3d52ffab3c4bae25878b075b603
+      internalID: -966307063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_226
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0898b86247d7eff47810974178c06f0b
+      internalID: -1199416960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_227
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09938ed2cb127cf4e84a50711c33fe29
+      internalID: 215113995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_228
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb724d3db05c9d34898ae33a4bee7715
+      internalID: -435150984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_229
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23a7c498e9f4f4c910d79c49f6c97b
+      internalID: 618949408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_230
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a1a0ad0ddff714d89206f00fa9eeaa
+      internalID: 772974096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_231
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 72
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82d943bb7c1c234d9e5a9f5e91e5a59
+      internalID: 531311291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17932a1d2b6404a48b6479032dac777b
+      internalID: 1215447405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_233
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc17bb7154362244b257b5f69a0d30d
+      internalID: -1431100469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_234
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7802d9ead157eaa41a7f541c90b65318
+      internalID: -334210838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_235
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d896a1ae1a51e4fb6a4c1ceba9cb8b
+      internalID: 504845707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_236
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a57039e503e63b4ea0b6eee4cc56aa6
+      internalID: -559474580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_237
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8e2611dd4aff546890ecf8a2d6713b
+      internalID: -983173054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_238
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5ab0f8a00f67348bdb95d4d83dfdff
+      internalID: 2137897685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_239
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b7660acc970d4296579844e0be5cc
+      internalID: -558190037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_240
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1de78e4dc3a740b360ac3d780c98d
+      internalID: 442659058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_241
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa67fe482740db459b8f23e4349de39
+      internalID: 1255140603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_242
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ae52adc9c269b4998155cee330b195
+      internalID: -778350002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_243
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dca7483f0f571b49b169cfa19cd7a25
+      internalID: -1057043045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_244
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89884ce72d063af4fa030076e2742711
+      internalID: -565834809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_245
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb3cafa73b08124dace6f7064fb0616
+      internalID: 141504108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_246
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b52a49ba52f7e47895062b3740854e
+      internalID: 634461025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_247
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e337829775ad4387cac88460ba5e6
+      internalID: 375418247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_248
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c3744796eb62b44b23ceb19112f960
+      internalID: 1422968953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_249
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d111e3fe93370d46abefc3092506770
+      internalID: 1753354233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_250
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c871620d60afd6f44af50b5dcffeb7ae
+      internalID: 753431938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_251
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e869eebc046df38469521524ccac44dd
+      internalID: -1575139708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg-wygol-village_252
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb6f0e0298602d41a37d1693d59643a
+      internalID: -1035428793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bg-wygol-village_0: 1904925910
+      bg-wygol-village_1: 2130952543
+      bg-wygol-village_10: 551809940
+      bg-wygol-village_100: 1124490601
+      bg-wygol-village_101: 2145532248
+      bg-wygol-village_102: -967256139
+      bg-wygol-village_103: -249789016
+      bg-wygol-village_104: -1867566757
+      bg-wygol-village_105: 496676376
+      bg-wygol-village_106: 1616203397
+      bg-wygol-village_107: 362589716
+      bg-wygol-village_108: -966422185
+      bg-wygol-village_109: -68135983
+      bg-wygol-village_11: -1629518286
+      bg-wygol-village_110: -928415
+      bg-wygol-village_111: 477983118
+      bg-wygol-village_112: 1416491895
+      bg-wygol-village_113: -2021388871
+      bg-wygol-village_114: -83795638
+      bg-wygol-village_115: -1239019742
+      bg-wygol-village_116: 538749320
+      bg-wygol-village_117: 660914527
+      bg-wygol-village_118: -833093392
+      bg-wygol-village_119: 963242087
+      bg-wygol-village_12: -1815341967
+      bg-wygol-village_120: -1603193481
+      bg-wygol-village_121: -2027608443
+      bg-wygol-village_122: 1708821197
+      bg-wygol-village_123: 2138239205
+      bg-wygol-village_124: -151754096
+      bg-wygol-village_125: 1292322977
+      bg-wygol-village_126: 1764173259
+      bg-wygol-village_127: 252848966
+      bg-wygol-village_128: -906674680
+      bg-wygol-village_129: -916004225
+      bg-wygol-village_13: -2080096923
+      bg-wygol-village_130: -1022794609
+      bg-wygol-village_131: 1057081030
+      bg-wygol-village_132: -730945745
+      bg-wygol-village_133: 1692260704
+      bg-wygol-village_134: 1351925331
+      bg-wygol-village_135: -1032925577
+      bg-wygol-village_136: 155836663
+      bg-wygol-village_137: -1742504944
+      bg-wygol-village_138: -2035555403
+      bg-wygol-village_139: -1418392474
+      bg-wygol-village_14: -283304647
+      bg-wygol-village_140: 748008035
+      bg-wygol-village_141: 343467267
+      bg-wygol-village_142: 614636887
+      bg-wygol-village_143: 1024747584
+      bg-wygol-village_144: -1916134143
+      bg-wygol-village_145: -262834435
+      bg-wygol-village_146: 1244031859
+      bg-wygol-village_147: -2001625023
+      bg-wygol-village_148: 363873135
+      bg-wygol-village_149: -190123810
+      bg-wygol-village_15: 1129151263
+      bg-wygol-village_150: -301849577
+      bg-wygol-village_151: -1074569089
+      bg-wygol-village_152: -443722337
+      bg-wygol-village_153: 1025618873
+      bg-wygol-village_154: -1131544129
+      bg-wygol-village_155: 1526879149
+      bg-wygol-village_156: 1613388282
+      bg-wygol-village_157: 940980010
+      bg-wygol-village_158: 558332693
+      bg-wygol-village_159: -177482440
+      bg-wygol-village_16: -17964583
+      bg-wygol-village_160: -361894839
+      bg-wygol-village_161: -392944639
+      bg-wygol-village_162: -984616796
+      bg-wygol-village_163: 475289849
+      bg-wygol-village_164: 1642334474
+      bg-wygol-village_165: 426367017
+      bg-wygol-village_166: 1849515612
+      bg-wygol-village_167: -1956745985
+      bg-wygol-village_168: -640425219
+      bg-wygol-village_169: -783179915
+      bg-wygol-village_17: 227089109
+      bg-wygol-village_170: -629198123
+      bg-wygol-village_171: 856224844
+      bg-wygol-village_172: -2092603266
+      bg-wygol-village_173: 1053706946
+      bg-wygol-village_174: -421772935
+      bg-wygol-village_175: 2003055654
+      bg-wygol-village_176: 167178372
+      bg-wygol-village_177: 186769288
+      bg-wygol-village_178: -1558041697
+      bg-wygol-village_179: 1510312590
+      bg-wygol-village_18: 1252906612
+      bg-wygol-village_180: 675324402
+      bg-wygol-village_181: -1160441249
+      bg-wygol-village_182: -258153646
+      bg-wygol-village_183: 124682308
+      bg-wygol-village_184: 1295972310
+      bg-wygol-village_185: -316367578
+      bg-wygol-village_186: 2022840181
+      bg-wygol-village_187: 40487781
+      bg-wygol-village_188: -1579731382
+      bg-wygol-village_189: -112015590
+      bg-wygol-village_19: -198163527
+      bg-wygol-village_190: -1245026182
+      bg-wygol-village_191: -676441246
+      bg-wygol-village_192: -853754970
+      bg-wygol-village_193: -1606324184
+      bg-wygol-village_194: 1761203834
+      bg-wygol-village_195: 1319727554
+      bg-wygol-village_196: 261284827
+      bg-wygol-village_197: 1234359691
+      bg-wygol-village_198: -2135613361
+      bg-wygol-village_199: -813786301
+      bg-wygol-village_2: -1089129227
+      bg-wygol-village_20: 1138375207
+      bg-wygol-village_200: 1118815311
+      bg-wygol-village_201: 1943567392
+      bg-wygol-village_202: -35462720
+      bg-wygol-village_203: -150048158
+      bg-wygol-village_204: 907436668
+      bg-wygol-village_205: 341469618
+      bg-wygol-village_206: -1657867110
+      bg-wygol-village_207: -1104641225
+      bg-wygol-village_208: -635908431
+      bg-wygol-village_209: 1705276869
+      bg-wygol-village_21: -1876255632
+      bg-wygol-village_210: 949243372
+      bg-wygol-village_211: 381168252
+      bg-wygol-village_212: -1759696289
+      bg-wygol-village_213: 211422642
+      bg-wygol-village_214: 597100906
+      bg-wygol-village_215: -2036349870
+      bg-wygol-village_216: 1464456734
+      bg-wygol-village_217: -1605619638
+      bg-wygol-village_218: 599108268
+      bg-wygol-village_219: -1519463648
+      bg-wygol-village_22: -1651331146
+      bg-wygol-village_220: -1526649022
+      bg-wygol-village_221: 1915294108
+      bg-wygol-village_222: -160084750
+      bg-wygol-village_223: -323250598
+      bg-wygol-village_224: 365181413
+      bg-wygol-village_225: -966307063
+      bg-wygol-village_226: -1199416960
+      bg-wygol-village_227: 215113995
+      bg-wygol-village_228: -435150984
+      bg-wygol-village_229: 618949408
+      bg-wygol-village_23: -849518826
+      bg-wygol-village_230: 772974096
+      bg-wygol-village_231: 531311291
+      bg-wygol-village_232: 1215447405
+      bg-wygol-village_233: -1431100469
+      bg-wygol-village_234: -334210838
+      bg-wygol-village_235: 504845707
+      bg-wygol-village_236: -559474580
+      bg-wygol-village_237: -983173054
+      bg-wygol-village_238: 2137897685
+      bg-wygol-village_239: -558190037
+      bg-wygol-village_24: -1992375660
+      bg-wygol-village_240: 442659058
+      bg-wygol-village_241: 1255140603
+      bg-wygol-village_242: -778350002
+      bg-wygol-village_243: -1057043045
+      bg-wygol-village_244: -565834809
+      bg-wygol-village_245: 141504108
+      bg-wygol-village_246: 634461025
+      bg-wygol-village_247: 375418247
+      bg-wygol-village_248: 1422968953
+      bg-wygol-village_249: 1753354233
+      bg-wygol-village_25: -1567980342
+      bg-wygol-village_250: 753431938
+      bg-wygol-village_251: -1575139708
+      bg-wygol-village_252: -1035428793
+      bg-wygol-village_26: 838681767
+      bg-wygol-village_27: 86501663
+      bg-wygol-village_28: 1305312028
+      bg-wygol-village_29: 1084694408
+      bg-wygol-village_3: 482609088
+      bg-wygol-village_30: 2131156775
+      bg-wygol-village_31: 1160127755
+      bg-wygol-village_32: 582919017
+      bg-wygol-village_33: -1887983177
+      bg-wygol-village_34: -1643017340
+      bg-wygol-village_35: -1505351060
+      bg-wygol-village_36: 1575633744
+      bg-wygol-village_37: -1799285303
+      bg-wygol-village_38: -277727166
+      bg-wygol-village_39: 229968794
+      bg-wygol-village_4: -1809554241
+      bg-wygol-village_40: -1768290715
+      bg-wygol-village_41: 150120667
+      bg-wygol-village_42: -332828733
+      bg-wygol-village_43: 1833848439
+      bg-wygol-village_44: -278137142
+      bg-wygol-village_45: -1925391081
+      bg-wygol-village_46: -400973609
+      bg-wygol-village_47: -317059146
+      bg-wygol-village_48: -592105065
+      bg-wygol-village_49: 77569512
+      bg-wygol-village_5: -2091316474
+      bg-wygol-village_50: 309528830
+      bg-wygol-village_51: 1817333159
+      bg-wygol-village_52: -1212664120
+      bg-wygol-village_53: -881652126
+      bg-wygol-village_54: 421592724
+      bg-wygol-village_55: -1221299676
+      bg-wygol-village_56: 1806121986
+      bg-wygol-village_57: 1181274678
+      bg-wygol-village_58: -1435864081
+      bg-wygol-village_59: 1414384077
+      bg-wygol-village_6: 2920286
+      bg-wygol-village_60: -338458248
+      bg-wygol-village_61: -72415382
+      bg-wygol-village_62: -768164810
+      bg-wygol-village_63: 396765087
+      bg-wygol-village_64: 1632093059
+      bg-wygol-village_65: 990706528
+      bg-wygol-village_66: 232622335
+      bg-wygol-village_67: 339473583
+      bg-wygol-village_68: 5082927
+      bg-wygol-village_69: -1124632529
+      bg-wygol-village_7: -1826648219
+      bg-wygol-village_70: 1446219797
+      bg-wygol-village_71: 1472579778
+      bg-wygol-village_72: 1308376360
+      bg-wygol-village_73: 1314005364
+      bg-wygol-village_74: -1007538296
+      bg-wygol-village_75: 571056304
+      bg-wygol-village_76: 879450211
+      bg-wygol-village_77: 84340981
+      bg-wygol-village_78: 123167509
+      bg-wygol-village_79: -400879075
+      bg-wygol-village_8: -643620339
+      bg-wygol-village_80: -524965518
+      bg-wygol-village_81: -897207414
+      bg-wygol-village_82: -2120381975
+      bg-wygol-village_83: -271178765
+      bg-wygol-village_84: -570032168
+      bg-wygol-village_85: 2001793782
+      bg-wygol-village_86: 1771521601
+      bg-wygol-village_87: 1370924325
+      bg-wygol-village_88: -1489902227
+      bg-wygol-village_89: 1368520628
+      bg-wygol-village_9: -483690295
+      bg-wygol-village_90: 1970481397
+      bg-wygol-village_91: 1091070447
+      bg-wygol-village_92: 1494709324
+      bg-wygol-village_93: -35080791
+      bg-wygol-village_94: -1745737910
+      bg-wygol-village_95: 1598992237
+      bg-wygol-village_96: -1444481955
+      bg-wygol-village_97: 1705432075
+      bg-wygol-village_98: 1869877803
+      bg-wygol-village_99: -226289871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
